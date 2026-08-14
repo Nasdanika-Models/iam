@@ -1,6 +1,6 @@
 <mxfile compressed="false" host="Electron">
   <diagram id="8b93b350-4155-4f0e-a042-29fda1f15a3d" name="iam">
-    <mxGraphModel dx="1911" dy="2019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2866" dy="2603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,7 @@
         </mxCell>
         <object label="Effect" link="references/eClassifiers/Effect/index.html" id="f8bdf803-82e3-451c-b8f4-7a47b624305c">
           <mxCell parent="1" vertex="1">
-            <mxGeometry height="30" width="120" as="geometry" />
+            <mxGeometry height="30" width="120" x="910" y="-350" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="432d7f8e-a1a6-4c23-a9f5-1c7540d47be9" edge="1" parent="1" source="f8bdf803-82e3-451c-b8f4-7a47b624305c" target="f8bdf803-82e3-451c-b8f4-7a47b624305c">
